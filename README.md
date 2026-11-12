@@ -1,11 +1,11 @@
-# Technical Writing Laboratory Portfolio
+# Technical Writing Portfolio
 
 ![Git](https://img.shields.io/badge/VCS-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Platform-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/Typesetting-LaTeX-474A8A?style=for-the-badge&logo=latex&logoColor=white)
 ![Doxygen](https://img.shields.io/badge/Docs-Doxygen-2C415C?style=for-the-badge)
 
-A centralized repository containing technical documentation, scientific typeset documents, presentation slide decks, and version control procedures completed for the **Technical Writing** course at **MNIT Jaipur**.
+A centralized repository containing technical documentation, scientific typeset documents, presentation slide decks, and version control procedures completed for the **Technical Writing** course for Semester-III B.Tech Computer Science and Engineering at **MNIT Jaipur**.
 
 ---
 
