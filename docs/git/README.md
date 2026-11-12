@@ -8,3 +8,4 @@ git status
 git add <filename>
 git commit -m "Message"
 git push origin main
+Updated notes
